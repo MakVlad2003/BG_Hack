@@ -123,10 +123,6 @@ A complete, reproducible implementation lives in **`final_model.ipynb`**.
 
 ![confusion-matrix](docs/confusion_matrix.png)
 
-</details>
-
-> The model ranked **#7/132** on the public leader‑board at the end of the hackathon.
-
 ---
 
 ## How to Reproduce
